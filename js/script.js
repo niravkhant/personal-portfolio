@@ -34,7 +34,7 @@ window.addEventListener("scroll", () => {
         document.getElementById("about"),
         document.getElementById("services"),
         document.getElementById("skills"),
-        // document.getElementById("projects"),
+        document.getElementById("projects"),
         document.getElementById("testimonials"),
         document.getElementById("contact"),
     ];
