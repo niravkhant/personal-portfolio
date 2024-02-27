@@ -5,6 +5,6 @@ This is my portfolio website.
 
 ## **Live Preview**
 
-[Live Preview](https://example.netlify.app/ "Nirav Khant's Portfolio")
+[Live Preview](https://niravkhant.netlify.app/ "Nirav Khant's Portfolio")
 
 #### Happy Coding 🚀
